@@ -17,5 +17,5 @@
         
    
  ## Setup
- ### Setting Up a Queue
+ ### Create a Queue
  1. Log into AWS
